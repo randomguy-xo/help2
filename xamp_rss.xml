@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <item>
+        <title>Google</title>
+        <link>https://www.google.com</link>
+        <description>google website</description>
+    </item>
+    <item>
+        <title>bing</title>
+        <link>https://www.bing.com</link>
+        <description>google website</description>
+    </item>    
+    <item>
+        <title>Microsoft</title>
+        <link>www.microsoft.com</link>
+        <description>google website</description>
+    </item>
+</channel>
+</rss>
