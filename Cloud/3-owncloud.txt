@@ -1,0 +1,6 @@
+1.download owncloud server application(vmware)
+2.extract and you will get vm file name as UCS
+3.Open VMware and open this machine
+4.NEXT NEXT NEXT
+5.you can see IP Address on top right hand side ,open the browser and enter IP address in URL bar.
+6.upload license on ownlcoud 

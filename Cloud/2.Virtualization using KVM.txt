@@ -1,0 +1,17 @@
+Virtualization using KVM
+1.#sudo grep -c "svm\|vmx"/proc/cpuinfo
+2.#sudo apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager
+3.#sudo adduser rait
+4.Log out and log back in as rait
+5.#sudo adduser rait libvrtd
+6.open vm app and create vm
+7.install & initialize windows 
+
+IF THE ABOVE ONE DOESN'T WORK
+-------------------------------------------------------------------------------------------------------
+egrep -c '(vmx|svm)' /proc/cpuinfo
+sudo apt-get update
+sudo apt install cpu-checker
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+sudo apt install virt-manager
+sudo virt-manager
