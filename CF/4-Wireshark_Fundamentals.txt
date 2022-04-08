@@ -1,0 +1,6 @@
+1. Download “Wireshark” (Windows 64 bit) and install it.
+2. Open Wireshark. Select active connection for capturing.
+3. Now open chrome and clear previous browsing history.
+4. Now open a new tab and search for website (for e.g. cars).
+5. Now open Wireshark and start capturing by clicking shark-fin iconon top left.
+6. Now open website and browse website for sometime. Now stopc apturing. 

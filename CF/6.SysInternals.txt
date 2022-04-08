@@ -1,0 +1,8 @@
+https://docs.microsoft.com/en-us/sysinternals/
+
+monitor live process-process monitor
+LIVE RAM CAPT-belkasoft,bel soft evedence center
+capture tcp/udp-tcpview
+monitor hard disk-diskmon
+monitor vir memory-vmmap
+monitor cache memoery-rammap

@@ -1,0 +1,8 @@
+Download Recuva Software
+Open D Drive and create a Text doc
+write something and save it as hello.txt
+After saving delete the file from D as well as Recycle Bin
+Now open Recuva and select D drive for scan
+Click on scan.
+After scanning deleted file will appear on top
+Select the deleted file and click on restore.

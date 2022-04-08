@@ -1,0 +1,10 @@
+Start AccessData FTK and choose start new case
+Enter required details
+Select next and a case log option window will appear. Select next
+Select proper options in the Refine Index Window
+	-Unconditionally Index(Top 2)
+	-File Status Criteria(Either for all, and tick mark both boxes)
+	-File Tye Criteria(Tick all the boxes)
+Click next and a new window will open which will ask for evidence. Select add individiual file.
+Select proper evidence file and import it.
+Click next and finish to create case file.

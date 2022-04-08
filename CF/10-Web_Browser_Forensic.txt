@@ -1,0 +1,11 @@
+Open BrowserHistoryExaminer
+Click on File>Capture History
+Select the capture folder and click on next
+Enter destination to capture the data
+The data will be retrieved
+On the Left Panel
+	-Click on Bookmarks
+	-Click on Cached files
+	-Click on Cached Images
+	-Click on Cookies
+Create report by File>Report and save as pdf or html
