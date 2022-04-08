@@ -1,0 +1,7 @@
+Download Autopsy
+Enter Case Info and select Base Directory as Drive
+Enter the Optional Info
+An option will appear as "Select Type of Data Source to Add". Select option "Local Disk" and click next.
+Select USB Drive
+Select all in Configure Ingest Modules
+Message box will appear as Data Source has been added to the local database.... Click on Finish

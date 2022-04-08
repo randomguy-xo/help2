@@ -1,0 +1,12 @@
+1.Creating Forensic Image
+Open FTK Imager
+Click on File and click on Create Disk Image optiom
+Capture Image box will appear and fill all the details
+Note the MD5 and SHAI have been created and verified
+
+2.Check Integrity of Data
+Click on Image Summary
+
+3.Analyze Forensic Image
+Click on Add Evidence Item
+Click on Image File
